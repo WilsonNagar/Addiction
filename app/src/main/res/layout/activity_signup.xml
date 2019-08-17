@@ -31,6 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#F8B195"
+        android:padding="10dp"
         android:orientation="vertical">
             <!--  Name Label -->
             <android.support.design.widget.TextInputLayout
